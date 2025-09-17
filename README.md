@@ -177,4 +177,4 @@ These examples are for transparency and education—no training is required to u
   - For low‑memory environments, disable heavy features (translation/summarization) or rely on fallbacks.
 
 ## License
-MIT (or your preferred license)
+MIT 
