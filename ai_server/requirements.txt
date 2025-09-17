@@ -9,5 +9,6 @@ sentencepiece==0.1.99
 sacremoses==0.1.1
 keybert==0.8.3
 sentence-transformers==2.7.0
+pytest==8.3.2
 
 
